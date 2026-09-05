@@ -1,0 +1,12 @@
+version: 1
+repository: davlindh/hackzter-connect
+purpose: Hackathon participant, project, and collaboration connectivity experiment.
+status: vertical-reference
+canonical_parent: davlindh/faving-journey-shaper
+capabilities: [hackathons, connectivity, collaboration]
+vertical: hackathon
+omniframez_role: vertical-validation
+evidence: {confidence: inferred, sources: [repository-name]}
+harvest_action: harvest-domain-capabilities
+relations:
+  - validates: hackathon collaboration and matching workflows
